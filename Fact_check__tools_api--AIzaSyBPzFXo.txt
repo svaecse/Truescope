@@ -1,0 +1,34 @@
+Fact_check__tools_api--AIzaSyBPzFXoDFxbAk8FV78id-fsjg9UgEJ4JjE
+
+
+NEWS_API
+f3f7ad40b6354dc2b1c9a62f405f54a9
+
+API Name: Google Fact Check Tools API
+Endpoint: https://factchecktools.googleapis.com/v1alpha1/claims:search
+API Key: AIzaSyBPzFXoDFxbAk8FV78id-fsjg9UgEJ4JjE
+Parameters: 
+    query - The claim text to check
+    languageCode - Language of the claim (e.g., "en")
+Notes: Returns fact-check verdicts, publisher, and review date.
+
+--------------------------------------------------
+
+API Name: News API
+Endpoint: https://newsapi.org/v2/top-headlines
+API Key: f3f7ad40b6354dc2b1c9a62f405f54a9
+Parameters:
+    country - Country code (e.g., "in" for India)
+    category - news category (business, sports, etc.)
+    q - keyword to search
+Notes: Fetches live news headlines. Can be filtered by country and category.
+
+--------------------------------------------------
+
+API Name: Google Cloud NLP API (Optional)
+Endpoint: https://language.googleapis.com/v1/documents:analyzeEntities
+API Key: YOUR_API_KEY_HERE
+Parameters:
+    document.type - Always "PLAIN_TEXT"
+    content - Text you want to analyze
+Notes: Extracts entities (person, organization, location) and can detect sentiment.
