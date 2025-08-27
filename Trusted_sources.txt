@@ -1,0 +1,13 @@
+Source	URL	Type
+PIB Fact Check	https://factcheck.pib.gov.in
+	Indian Govt
+AltNews	https://www.altnews.in
+	Indian
+FactCheck.org	https://www.factcheck.org
+	Global
+PolitiFact	https://www.politifact.com
+	Global
+Factly	https://factly.in
+	Indian
+BoomLive	https://www.boomlive.in
+	Indian
