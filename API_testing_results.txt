@@ -1,0 +1,178 @@
+{
+  "claims": [
+    {
+      "text": "Fact Check: Is Aditya Srivastava, mentioned by Rahul Gandhi, a voter in three Indian states?",
+      "claimant": "Social Media Users",
+      "claimDate": "2025-08-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "India TV News",
+            "site": "indiatvnews.com"
+          },
+          "url": "https://www.indiatvnews.com/fact-check/fact-check-is-aditya-srivastava-mentioned-by-congress-mp-rahul-gandhi-a-voter-in-three-indian-states-leader-of-opposition-on-vote-chori-2025-08-07-1002517",
+          "title": "Fact Check: Is Aditya Srivastava, mentioned by Rahul Gandhi, a ...",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "This government notification states that the Panchayat Polls will be held in Jammu and Kashmir after November this year.",
+      "claimant": "Social Media Users",
+      "claimDate": "2025-08-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "India Today",
+            "site": "indiatoday.in"
+          },
+          "url": "https://www.indiatoday.in/fact-check/story/fact-check-no-panchayat-polls-jammu-kashmir-fake-notification-viral-2767263-2025-08-06",
+          "title": "Fact Check: No Panchayat Polls in J&K yet, FAKE notification goes ...",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fact Check: 2025 Bihar elections from October 21? Know truth behind viral claim",
+      "claimant": "Social Media Users",
+      "claimDate": "2025-07-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "India TV News",
+            "site": "indiatvnews.com"
+          },
+          "url": "https://www.indiatvnews.com/fact-check/fact-check-2025-bihar-elections-from-october-21-know-truth-behind-viral-claim-latest-updates-2025-07-08-997883",
+          "title": "Fact Check: 2025 Bihar elections from October 21? Know truth ...",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "No, Election Commission has not yet released poll dates for 2025 Bihar Elections; this social media post shares false details",
+      "claimant": "PTI Fact Check",
+      "claimDate": "2025-07-04T16:07:54Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Press Trust of India",
+            "site": "ptinews.com"
+          },
+          "url": "https://www.ptinews.com/fact-detail/span-class%22pti-red-color%22-pti-fact-check-spanno,-election-commission-has-not-yet-released-poll-dates-for-2025-bihar-elections-this-social-media-post-shares-false-details/2698940",
+          "title": "PTI Fact Check: No, Election Commission has not yet released poll ...",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump accused Modi of winning the election through EVM fraud.",
+      "claimant": "FB User-Amit Gahlawat",
+      "claimDate": "2025-03-07T05:28:04Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "site": "vishvasnews.com"
+          },
+          "url": "https://www.vishvasnews.com/english/politics/fact-check-donald-trump-did-not-accuse-modi-of-winning-elections-in-india-through-evm-fraud-viral-claim-is-fake/",
+          "title": "Fact Check: Donald Trump Did Not Accuse Modi Of Winning ...",
+          "reviewDate": "2025-03-07T05:28:04Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "India Today pre-poll survey predicts victory for the BJP in the 2025 Delhi Elections with 48 seats.",
+      "claimant": "Viral Social Media Post",
+      "claimDate": "2025-02-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/election-watch/viral-graphic-showing-india-today-survey-on-2025-delhi-elections-is-fake",
+          "title": "Fact Check: Viral Graphic Showing India Today Survey On 2025 ...",
+          "reviewDate": "2025-02-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fact Check: Viral ABP Opinion Poll Forecasting BJP Win In 2025 Delhi Election Is Fake",
+      "claimDate": "2024-12-19T12:55:48Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "NDTV",
+            "site": "ndtv.com"
+          },
+          "url": "https://www.ndtv.com/india-news/fact-check-viral-abp-opinion-poll-forecasting-bjp-win-in-2025-delhi-assembly-elections-is-fake-7286474",
+          "title": "Fact Check: Viral ABP Opinion Poll Forecasting BJP Win In 2025 ...",
+          "reviewDate": "2024-12-19T12:55:48Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Indian election commission said opposition candidate got 0 votes",
+      "claimant": "Multiple users",
+      "claimDate": "2024-11-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Fact Check",
+            "site": "factcheck.afp.com"
+          },
+          "url": "https://factcheck.afp.com/doc.afp.com.36PA7K7",
+          "title": "Indian election commission did not say opposition candidate ...",
+          "reviewDate": "2024-12-10T10:14:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Genuine magazine cover mocking India's opposition leader Rahul Gandhi",
+      "claimant": "Multiple Type",
+      "claimDate": "2024-11-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Fact Check",
+            "site": "factcheck.afp.com"
+          },
+          "url": "https://factcheck.afp.com/doc.afp.com.36NL2NY",
+          "title": "Fabricated India Today magazine cover targets opposition leader ...",
+          "reviewDate": "2024-12-06T03:12:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fact Check: Were 5,04,313 additional votes counted in 2024 Maharashtra Assembly elections? Know truth",
+      "claimant": "Social Media Users",
+      "claimDate": "2024-11-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "India TV News",
+            "site": "indiatvnews.com"
+          },
+          "url": "https://www.indiatvnews.com/fact-check/fact-check-were-504313-additional-votes-counted-in-2024-maharashtra-assembly-elections-know-truth-latest-updates-2024-11-28-963799",
+          "title": "Fact Check: Were 5,04313 additional votes counted in 2024 ...",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ],
+  "nextPageToken": "CAo"
+}
